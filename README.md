@@ -1,6 +1,6 @@
 # Multi-Tier Inventory & Stock Management System
 
-A production-ready full-stack platform built to handle real-time stock control, automated inventory counting, and multi-tier supply tracking. This architecture directly reflects the database management principles and practical enterprise solutions I engineered during my 4-month industry software engineering internship.
+A production-ready full-stack platform built to handle real-time stock control, automated inventory counting, and multi-tier supply tracking. This architecture directly reflects the database management principles and practical enterprise solutions I engineered during Competition with my peers of 4.
 
 ## 🚀 Key Features
 
